@@ -1,8 +1,1 @@
-## Hi there 👋
-
-# 💫 About Me: Self-taught programming student focused on learning new technologies, problem-solving, and building practical projects.
-
-# 💻 Tech Stack: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=circeexe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=circeexe&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=circeexe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
-### 🔝 Top Contributed Repo ![](https://github-contributor-stats.vercel.app/api?username=circeexe&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=circeexe&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💫 About Me: Self-taught programming student focused on learning new technologies, problem-solving, and building practical projects. # 💻 Tech Stack: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) # 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=circeexe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=circeexe&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=circeexe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ### 🔝 Top Contributed Repo ![](https://github-contributor-stats.vercel.app/api?username=circeexe&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=circeexe&icon=0&color=0)](https://visitcount.itsvg.in)
